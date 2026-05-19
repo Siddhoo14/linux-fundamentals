@@ -1,4 +1,4 @@
-# Linux Basics Notes ??
+# Linux Basics Notes ???
 
 This repository contains my Linux learning notes and hands-on practice as part of my DevOps journey.
 

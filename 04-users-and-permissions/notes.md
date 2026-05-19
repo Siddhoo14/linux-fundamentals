@@ -1,7 +1,7 @@
 # Linux Users & Permissions 👥🔐
 
 <p align="center">
-  <img src="../images/linux-users-permissions-banner.png" width="900"/>
+  <img src="./Rip1BLJtmJpWgQMMG0-5XTSa97p9NMgaIhuoGRdseROo5AM6KQjZb6AEAdDV640zF9nzvUy06nXHK2iB6CaS2Gg-cw-OI3FwKn8LoE-fG0EbNWYsrVO3I8LKzEZ2IRJk7jWGKZCNNU2D.jfif" width="900"/>
 </p>
 
 ## Introduction
